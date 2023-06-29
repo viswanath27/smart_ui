@@ -23,6 +23,11 @@ This directory contains the individual pages/routes of the application. Each pag
 This directory contains CSS or styling files used to customize the appearance of the application.
 
 # Backend components
+
+## Server
+This is the main entry point for all the routes 
+
+
 ## contexts
 This directory contains context providers used for managing global state in the application. Notable contexts may include AuthContext, ChatContext, or ThemeContext.
 
