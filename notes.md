@@ -1,8 +1,8 @@
 The repository you shared appears to be a chatbot user interface built using React.js. Here's a breakdown of the code structure and notable files:
 
-src directory: 
+# UI Components: 
+
 This directory contains the source code for the React application.
----------------------------------------------------------------------------------------------------------------------------------
 ## src/components: (UI)
 This directory contains reusable UI components used throughout the application. Examples include ChatInput, ChatMessage, and ChatWidget.
 
@@ -11,8 +11,8 @@ This directory contains the individual pages/routes of the application. Each pag
 
 ## src/styles: (UI)
 This directory contains CSS or styling files used to customize the appearance of the application.
----------------------------------------------------------------------------------------------------------------------------------
 
+# Backend components
 ## src/contexts:(BE)
 This directory contains context providers used for managing global state in the application. Notable contexts may include AuthContext, ChatContext, or ThemeContext.
 
