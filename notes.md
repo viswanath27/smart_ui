@@ -23,16 +23,16 @@ This directory contains the individual pages/routes of the application. Each pag
 This directory contains CSS or styling files used to customize the appearance of the application.
 
 # Backend components
-## contexts:(BE)
+## contexts
 This directory contains context providers used for managing global state in the application. Notable contexts may include AuthContext, ChatContext, or ThemeContext.
 
-## hooks: (BE)
+## hooks
 This directory contains custom hooks used to encapsulate reusable logic. Examples may include hooks for handling API requests, managing form state, or implementing chat-related functionality.
 
-## services: (BE)
+## services
 This directory may contain utility functions or services used for data fetching, API communication, or other backend-related tasks.
 
-## utils: (BE)
+## utils
 This directory contains utility functions or helper modules that provide common functionality across the application.
 
 ## src/App.js or src/index.js: 
