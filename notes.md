@@ -3,13 +3,13 @@ The repository you shared appears to be a chatbot user interface built using Rea
 src directory: 
 This directory contains the source code for the React application.
 ---------------------------------------------------------------------------------------------------------------------------------
-src/components: (UI)
+## src/components: (UI)
 This directory contains reusable UI components used throughout the application. Examples include ChatInput, ChatMessage, and ChatWidget.
 
-src/pages: (UI)
+## src/pages: (UI)
 This directory contains the individual pages/routes of the application. Each page typically corresponds to a React component that defines the layout and behavior of a specific route. Examples may include HomePage, AboutPage, or ChatPage.
 
-src/styles: (UI)
+## src/styles: (UI)
 This directory contains CSS or styling files used to customize the appearance of the application.
 ---------------------------------------------------------------------------------------------------------------------------------
 
