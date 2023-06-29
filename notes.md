@@ -5,10 +5,10 @@ The repository you shared appears to be a chatbot user interface built using Rea
     2. [pages](#pages)
     3. [styles](#styles)
 2. [Backend components](#Backend-components)
-    1. [contexts](#src/contexts)
-    2. [hooks](#src/hooks)
-    2. [services](#src/services)
-    3. [utils](#src/utils)
+    1. [contexts](#contexts)
+    2. [hooks](#hooks)
+    2. [services](#services)
+    3. [utils](#utils)
 
 # UI Components 
 
@@ -23,16 +23,16 @@ This directory contains the individual pages/routes of the application. Each pag
 This directory contains CSS or styling files used to customize the appearance of the application.
 
 # Backend components
-## src/contexts:(BE)
+## contexts:(BE)
 This directory contains context providers used for managing global state in the application. Notable contexts may include AuthContext, ChatContext, or ThemeContext.
 
-## src/hooks: (BE)
+## hooks: (BE)
 This directory contains custom hooks used to encapsulate reusable logic. Examples may include hooks for handling API requests, managing form state, or implementing chat-related functionality.
 
-## src/services: (BE)
+## services: (BE)
 This directory may contain utility functions or services used for data fetching, API communication, or other backend-related tasks.
 
-## src/utils: (BE)
+## utils: (BE)
 This directory contains utility functions or helper modules that provide common functionality across the application.
 
 ## src/App.js or src/index.js: 
